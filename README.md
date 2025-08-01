@@ -1,0 +1,1 @@
+# YOLOv8-Based-Lightweight-American-Sign-Language-and-Gesture-Recognition
