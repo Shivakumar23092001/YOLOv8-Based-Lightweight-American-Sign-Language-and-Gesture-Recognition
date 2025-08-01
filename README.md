@@ -1,6 +1,4 @@
-## YOLOv8-Based-Lightweight-American-Sign-Language-and-Gesture-Recognition
-
-**Project: YOLOv8-Based Lightweight American Sign Language Gesture Detection**
+## YOLOv8 Based Lightweight American Sign Language and Gesture Recognition
 
 📌 *Overview*
 
